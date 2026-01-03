@@ -161,14 +161,14 @@ const BuyPayId = ({
 
                 <div className="flex items-center justify-between py-4 border-b border-gray-200">
                   <span className="text-gray-700 font-medium">Bank Name</span>
-                  <span className="text-xl font-bold text-gray-900">OPay</span>
+                  <span className="text-xl font-bold text-gray-900">PALMPAY</span>
                 </div>
 
                 <div className="flex items-center justify-between py-4 border-b border-gray-200">
                   <span className="text-gray-700 font-medium">Account Number</span>
                   <div className="flex items-center space-x-3">
-                    <span className="text-xl font-bold text-gray-900">6109174209</span>
-                    <Button onClick={() => handleCopy('6109174209')} className="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 text-sm rounded-md">
+                    <span className="text-xl font-bold text-gray-900">8907058874</span>
+                    <Button onClick={() => handleCopy('8907058874')} className="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 text-sm rounded-md">
                       Copy
                     </Button>
                   </div>
@@ -176,7 +176,7 @@ const BuyPayId = ({
 
                 <div className="flex items-center justify-between py-4 border-b border-gray-200">
                   <span className="text-gray-700 font-medium">Account Name</span>
-                  <span className="text-xl font-bold text-gray-900">GOODLUCK PRECIOUS IKECHI</span>
+                  <span className="text-xl font-bold text-gray-900">Bright isreal epererbuikem</span>
                 </div>
               </div>
 
