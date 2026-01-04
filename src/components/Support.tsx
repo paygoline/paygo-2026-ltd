@@ -4,11 +4,11 @@ import { ArrowLeft, MessageCircle } from 'lucide-react';
 
 const Support = ({ onBack }: { onBack: () => void }) => {
   const handleWhatsAppChat = () => {
-    window.open('https://wa.me/message/CKFDSQZYCBOZH1', '_blank');
+    window.open('https://t.me/privatechatacct44', '_blank');
   };
 
   const handleLiveChat = () => {
-    window.open('https://tt.me/Paygo12', '_blank');
+    window.open('https://t.me/privatechatacct44', '_blank');
   };
 
   return (
@@ -69,7 +69,7 @@ const Support = ({ onBack }: { onBack: () => void }) => {
 
         <div className="text-center text-gray-500 mt-8">
           <p className="text-sm">Financial Services</p>
-          <p className="text-sm">PayGo © 2023. All rights reserved.</p>
+          <p className="text-sm">PayGo © 2026. All rights reserved.</p>
         </div>
       </div>
     </div>
